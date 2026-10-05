@@ -1,0 +1,22 @@
+{
+    "version": "1.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/YagoLagrottiBracco/envrune/releases/download/v1.1.0/envrune_1.1.0_windows_amd64.zip",
+            "bin": [
+                "envrune.exe"
+            ],
+            "hash": "33b01adff30993300cb91168816bbae46ed78498a4c1ac709280c7c6d7aa647f"
+        },
+        "arm64": {
+            "url": "https://github.com/YagoLagrottiBracco/envrune/releases/download/v1.1.0/envrune_1.1.0_windows_arm64.zip",
+            "bin": [
+                "envrune.exe"
+            ],
+            "hash": "71ad8e9227f166c8f55facf1ca906c7002e3b029ea8eaf972b087b2b255e106e"
+        }
+    },
+    "homepage": "https://github.com/YagoLagrottiBracco/envrune",
+    "license": "Apache-2.0",
+    "description": "A deliberate command-line workspace for encrypted environment variables."
+}
