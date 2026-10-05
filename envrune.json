@@ -1,19 +1,19 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/YagoLagrottiBracco/envrune/releases/download/v1.1.0/envrune_1.1.0_windows_amd64.zip",
+            "url": "https://github.com/YagoLagrottiBracco/envrune/releases/download/v1.2.0/envrune_1.2.0_windows_amd64.zip",
             "bin": [
                 "envrune.exe"
             ],
-            "hash": "33b01adff30993300cb91168816bbae46ed78498a4c1ac709280c7c6d7aa647f"
+            "hash": "d799dfc9a0e79c32ee0ca785fee95e62d1a301bcf507e951321306e781814692"
         },
         "arm64": {
-            "url": "https://github.com/YagoLagrottiBracco/envrune/releases/download/v1.1.0/envrune_1.1.0_windows_arm64.zip",
+            "url": "https://github.com/YagoLagrottiBracco/envrune/releases/download/v1.2.0/envrune_1.2.0_windows_arm64.zip",
             "bin": [
                 "envrune.exe"
             ],
-            "hash": "71ad8e9227f166c8f55facf1ca906c7002e3b029ea8eaf972b087b2b255e106e"
+            "hash": "8f128d37d44b738098ce442e97dd182ce82e3d53b8277e9dd655d71216020682"
         }
     },
     "homepage": "https://github.com/YagoLagrottiBracco/envrune",
